@@ -4,6 +4,7 @@
 * sub
 * mov
 * rol
+* (lol)
 * ror
 * slz
 * srz
